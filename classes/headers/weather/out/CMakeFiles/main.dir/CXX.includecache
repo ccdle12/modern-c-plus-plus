@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christophercoverdale/desktop/Projects/c++-projects/modern-c++/headers/weather/main.cpp
+tools.h
+/Users/christophercoverdale/desktop/Projects/c++-projects/modern-c++/headers/weather/tools.h
+
+/Users/christophercoverdale/desktop/Projects/c++-projects/modern-c++/headers/weather/tools.cpp
+tools.h
+/Users/christophercoverdale/desktop/Projects/c++-projects/modern-c++/headers/weather/tools.h
+iostream
+-
+
+/Users/christophercoverdale/desktop/Projects/c++-projects/modern-c++/headers/weather/tools.h
+
